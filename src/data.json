@@ -1,0 +1,12 @@
+{
+  "companies": [
+    { "id": 145, "name": "Google", "employees": 500 },
+    { "id": 496, "name": "Amazon", "employees": 100 },
+    { "id": 129, "name": "Facebook", "employees": 500 },
+    { "id": 593, "name": "Apple", "employees": 200 },
+    { "id": 952, "name": "Samsung", "employees": 300 },
+    { "id": 819, "name": "Microsoft", "employees": 150 },
+    { "id": 427, "name": "Tesla", "employees": 200 },
+    { "id": 901, "name": "Alibaba", "employees": 400 }
+  ]
+}
