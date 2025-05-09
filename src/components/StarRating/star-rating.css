@@ -1,0 +1,13 @@
+.star-rating {
+  height: 40px;
+  width: 40px;
+  border: 1px solid black;
+  padding: 12px 12px 2px 12px;
+  background: white;
+  text-align: center;
+  cursor: pointer;
+
+  &:hover {
+    background: purple;
+  }
+}
